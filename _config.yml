@@ -4,11 +4,11 @@
 #If you see '> # Enter on the next line', be sure the next line remains indented two spaces.
 
 #REQUIRED
-org_name: Project Example
+org_name: Utopia
 org_summary: > # Enter your summary on the next line. Be sure to indent by two spaces.
-  A mobile-friendly Github Pages template designed to help grassroots nonprofits get a website online quickly
+  A non-profit organization started by 3 high schoolers to help out the community.
 org_full_description: > # Enter your description on the next line. Be sure to indent by two spaces.
-  Ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate.
+  At Utopia, we are dedicated to fostering community connections through our initiatives. Our origins are rooted in a passion for service, and our process is guided by the values of inclusivity and collaboration. Join us as we strive to empower individuals and strengthen our community ties. Your support can truly make a difference.
 
 #OPTIONAL
 #Non US-address support coming soon
@@ -23,8 +23,8 @@ org_phone: > # Enter phone on next line. Be sure to indent by two spaces.
   (123) 456-7890
 
 #SOCIAL MEDIA
-org_twitter_username: smartergiving
-org_facebook_username: smartergiving
+org_twitter_username: 
+org_facebook_username: 
 org_instagram_username:
 
 #TAX STATUS
@@ -33,13 +33,13 @@ org_instagram_username:
 fiscal_sponsor: false
 fiscal_sponsor_name:
 #If your organization is currently registered as a 501(c)3 organization, enter true below. Otherwise enter false. Enter false if you have a fiscal sponsor.
-is_501c3: true
+is_501c3: false
 
 #ONLINE DONATIONS & EMAIL SIGNUPS
 #To use these services, enter the required usernames. For further instructions, consult the README file.
 #If you do not wish to use a service, simply remove everything after the colon (:), leaving the item blank
-donorbox_campaign_name: free-template-demo
-tinyletter_username: interestingnonprofits
+donorbox_campaign_name: 
+tinyletter_username: 
 
 #SEARCH ENGINES
 #Changing this next setting to 'true' will allow your site to be indexed by search engines (like Google)
@@ -47,7 +47,7 @@ publish: false
 
 #COLOR SCHEME
 #Select one of the five color schemes (default, one, two, three, or four)
-color_scheme: default
+color_scheme: one
 
 # *** DO NOT CHANGE ANYTHING BELOW THIS LINE ***
 
